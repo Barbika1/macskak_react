@@ -43,6 +43,8 @@ body{
   background-image: url('./hatter.jpg');
   font-size: 30px;
   color:#fb61bb;
+  font-weight: bold;
+  text-shadow: grey 3px 3px;
 }
 
 img{
