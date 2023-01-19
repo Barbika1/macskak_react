@@ -44,11 +44,15 @@ body{
   font-size: 30px;
   color:#fb61bb;
   font-weight: bold;
-  text-shadow: grey 3px 3px;
+  text-shadow: gray 3px 3px;
   text-align: center;
 }
 
 img{
   border: black solid 3px;
   border-radius: 30%;
+}
+p,h1,h2{
+  background-color: rgba(41, 7, 27, 0.3);
+  border-radius: 10%;
 }
