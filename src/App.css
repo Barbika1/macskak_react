@@ -38,5 +38,14 @@
 }
 
 body{
-  margin-left: 20%;
+  margin-left: 30%;
+  margin-right: 30%;
+  background-image: url('./hatter.jpg');
+  font-size: 30px;
+  color:#fb61bb;
+}
+
+img{
+  border: black solid 3px;
+  border-radius: 30%;
 }
